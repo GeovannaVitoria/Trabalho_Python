@@ -23,9 +23,9 @@ O projeto está organizado da seguinte forma:
 
 São as características de cada produto.
 
--`nome`: Implementa o nome do produto.
--`preco`: Indica o valor do produto.
--`quantidade`: Exibe a quantidade daquele produto.
+- `nome`: Implementa o nome do produto.
+- `preco`: Indica o valor do produto.
+- `quantidade`: Exibe a quantidade daquele produto.
 
 ### Métodos:
 
