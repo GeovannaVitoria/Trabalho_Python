@@ -38,7 +38,7 @@ São os comportamentos dos produtos.
 
 ## Estruturas utilizadas
 
--**While**: Estrutura de repetição para que o menu seja exibido até que o usuário escolha essa opção.
--**If**: Estrutura de condição para tratamento de erros.
--**For**: Estrutura de repetição para gerenciar os dados dentro da lista produtos.
--**Match Case**: Estrutura de condição para gerenciar a escolha do usuário pelo menu.
+- **While**: Estrutura de repetição para que o menu seja exibido até que o usuário escolha essa opção.
+- **If**: Estrutura de condição para tratamento de erros.
+- **For**: Estrutura de repetição para gerenciar os dados dentro da lista produtos.
+- **Match Case**: Estrutura de condição para gerenciar a escolha do usuário pelo menu.
